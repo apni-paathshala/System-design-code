@@ -1,3 +1,3 @@
 public static int hashFunction(int key) {
-        return key % 10;
+        return key % 3;
 }
